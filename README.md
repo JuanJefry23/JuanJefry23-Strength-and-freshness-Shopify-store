@@ -2,9 +2,14 @@
 
 ## Technologies
 Html
+
 Css
+
 Liquid
+
 Javascript
+
 Shopify API
+
 Git
 
